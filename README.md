@@ -43,7 +43,7 @@ A 23-node order-processing workflow with order validation, duplicate prevention,
 
 A Make.com workflow that retrieves inventory data from a public API, identifies low-stock products, calculates reorder quantities, sends an HTML email report, and logs each monitoring run in Google Sheets.
 
-**Status:** In progress
+**Status:** Completed, tested, documented, and published
 
 ## Currently Developing
 
