@@ -14,7 +14,7 @@ I’m an automation specialist based in Manchester, UK, building practical workf
 
 ## Featured Automation Projects
 
-### Support Ticket Triage — n8n
+### [Support Ticket Triage — n8n](https://github.com/NayabHasnain/n8n-support-ticket-triage)
 
 A production-ready customer support workflow that:
 
