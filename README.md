@@ -33,6 +33,12 @@ A production-ready customer support workflow that:
 A documented lead-processing workflow with data validation, duplicate prevention, Google Sheets storage, priority-based Gmail notifications, error handling, and retry support.
 **Status:** Completed, tested, documented, and published
 
+### [Order Processing and Inventory — n8n](https://github.com/NayabHasnain/n8n-order-processing-inventory)
+
+A 23-node order-processing workflow with order validation, duplicate prevention, inventory checks, stock updates, processed-order logging, low-stock routing, rejection paths, and notification preparation.
+
+**Status:** Completed, tested, documented, and published
+
 ### Inventory Monitoring and Low-Stock Reporting — Make.com
 
 A workflow that retrieves paginated product data, identifies products requiring reorder, creates a consolidated low-stock report, sends it by email, and records the results in Google Sheets.
