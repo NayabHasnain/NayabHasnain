@@ -31,6 +31,7 @@ A production-ready customer support workflow that:
 ### [Client Lead Intake — Make.com](https://github.com/NayabHasnain/make-client-lead-intake)
 
 A documented lead-processing workflow with data validation, duplicate prevention, Google Sheets storage, priority-based Gmail notifications, error handling, and retry support.
+
 **Status:** Completed, tested, documented, and published
 
 ### [Order Processing and Inventory — n8n](https://github.com/NayabHasnain/n8n-order-processing-inventory)
