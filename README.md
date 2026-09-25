@@ -28,11 +28,10 @@ A production-ready customer support workflow that:
 
 **Status:** Completed and production-tested
 
-### Client Lead Intake — Make.com
+### [Client Lead Intake — Make.com](https://github.com/NayabHasnain/make-client-lead-intake)
 
-An automated lead-processing workflow that captures client information, processes submitted data, and routes it into business systems for follow-up.
-
-**Status:** Completed and tested
+A documented lead-processing workflow with data validation, duplicate prevention, Google Sheets storage, priority-based Gmail notifications, error handling, and retry support.
+**Status:** Completed, tested, documented, and published
 
 ### Inventory Monitoring and Low-Stock Reporting — Make.com
 
