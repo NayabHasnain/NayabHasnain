@@ -39,8 +39,7 @@ A 23-node order-processing workflow with order validation, duplicate prevention,
 
 **Status:** Completed, tested, documented, and published
 
-### Inventory Monitoring and Low-Stock Reporting — Make.com
-
+### [Inventory Monitoring and Low-Stock Reporting — Make.com](https://github.com/NayabHasnain/make-inventory-monitoring/tree/main)
 A workflow that retrieves paginated product data, identifies products requiring reorder, creates a consolidated low-stock report, sends it by email, and records the results in Google Sheets.
 
 **Status:** In progress
